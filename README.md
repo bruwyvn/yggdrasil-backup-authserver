@@ -1,2 +1,2 @@
-# Yggdrasil Backup Authserver
-See the original source-code for more info.
+# Yggdrasil Backup Authentication Server
+See the original source code for more info.
